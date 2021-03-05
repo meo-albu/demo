@@ -17,8 +17,7 @@ const Login = () => {
 
   const { register, handleSubmit, errors, watch } = useForm();
 
-  const onSubmit = e => {
-    e.preventDefault()
+  const onSubmit = () => {
     if(name.length && password.length && position.length) {
       dispatch(login({
         name,
