@@ -1,0 +1,31 @@
+:root {
+  --fc-small-font-size: .85em;
+  --fc-page-bg-color: #DBE1FA;
+  --fc-neutral-bg-color: rgba(208, 208, 208, 0.3);
+  --fc-neutral-text-color: #DBE1FA;
+  --fc-border-color: #A9B8F4;
+
+  --fc-button-text-color: #DBE1FA;
+  --fc-button-bg-color: #7088E6;
+  --fc-button-border-color: #DBE1FA;
+  --fc-button-hover-bg-color: #7088E6;
+  --fc-button-hover-border-color: #7088E6;
+  --fc-button-active-bg-color: #183BC3;
+  --fc-button-active-border-color: #183BC3;
+
+  --fc-event-bg-color: #3788d8;
+  --fc-event-border-color: #3788d8;
+  --fc-event-text-color: #fff;
+  --fc-event-selected-overlay-color: rgba(0, 0, 0, 0.25);
+
+  --fc-event-resizer-thickness: 8px;
+  --fc-event-resizer-dot-total-width: 8px;
+  --fc-event-resizer-dot-border-width: 1px;
+
+  --fc-non-business-color: rgba(215, 215, 215, 0.3);
+  --fc-bg-event-color: rgb(143, 223, 130);
+  --fc-bg-event-opacity: 0.3;
+  --fc-highlight-color: #F5F7FF;
+  --fc-today-bg-color: #DBE1FA;
+  --fc-now-indicator-color: red;
+}
